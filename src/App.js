@@ -1,12 +1,11 @@
 import React from 'react';
 import './App.css';
-import Banner from './Components/Banner';
-
+import Layout from './Components/Layout';
 
 function App() {
   return (
     <>
-      <Banner />
+      <Layout />
     </>
   );
 }
