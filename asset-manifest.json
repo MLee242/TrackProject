@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TrackProject/static/css/main.266173d9.chunk.css",
+    "main.js": "/TrackProject/static/js/main.5deef48b.chunk.js",
+    "main.js.map": "/TrackProject/static/js/main.5deef48b.chunk.js.map",
+    "runtime-main.js": "/TrackProject/static/js/runtime-main.ec513b2a.js",
+    "runtime-main.js.map": "/TrackProject/static/js/runtime-main.ec513b2a.js.map",
+    "static/js/2.f336e54f.chunk.js": "/TrackProject/static/js/2.f336e54f.chunk.js",
+    "static/js/2.f336e54f.chunk.js.map": "/TrackProject/static/js/2.f336e54f.chunk.js.map",
+    "index.html": "/TrackProject/index.html",
+    "precache-manifest.0eba06ddb6d8f05850d1d84a9e5f6405.js": "/TrackProject/precache-manifest.0eba06ddb6d8f05850d1d84a9e5f6405.js",
+    "service-worker.js": "/TrackProject/service-worker.js",
+    "static/css/main.266173d9.chunk.css.map": "/TrackProject/static/css/main.266173d9.chunk.css.map",
+    "static/js/2.f336e54f.chunk.js.LICENSE.txt": "/TrackProject/static/js/2.f336e54f.chunk.js.LICENSE.txt",
+    "static/media/material-ui.png": "/TrackProject/static/media/material-ui.d2b1e190.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec513b2a.js",
+    "static/js/2.f336e54f.chunk.js",
+    "static/css/main.266173d9.chunk.css",
+    "static/js/main.5deef48b.chunk.js"
+  ]
+}
