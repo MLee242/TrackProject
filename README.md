@@ -9,6 +9,7 @@ Created a full stack track project software leveraging React.js for front end, S
 - Deployed both frontend/backend using Github/Heroku
 - Connected Heroku Spring bootApp with Heroku PostgresSQL
 - Includes Swagger UI API to document Spring REST API
+- Cross Origin AJAX HTTP Requests using Axios.
 
 ## In Progress
 - Adding Search Engine by tags, category
