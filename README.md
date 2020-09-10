@@ -15,5 +15,6 @@
 - Register User
 - Adding JWT Token or Oauth2
 
-**Link to trakcproject software:**
+**Link to Trakc Project Software:**
+
 https://www.moonlee242.me/TrackProject/
