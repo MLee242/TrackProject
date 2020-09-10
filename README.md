@@ -1,20 +1,23 @@
-# Full Stack Project:
-**Personal Issue Tracking Software**
+# Full Stack Track Projecet Software
 
-**Completed:**
-- Issue CRUD operation with Spring Boot API backend
-- Front End UI/UX and Form built using React JS and Material UI
-- Deployed both frontend/backend using Heroku
-- H2 Embedded Database
-- Heroku POSTGRES SQL database
+Created a full stack track project software leveraging React.js for front end, Spring for REST API backend, Heroku for deployment and Heroku Postgres SQL as cloud database.
 
+## Completed
+- Backend: CRUD operation with Spring Boot / Spring JPA 
+- Frontend: UI and Form Built using React.js and Material UI Package
+- Tested Spring with Local H2 Embedded Database
+- Deployed both frontend/backend using Github/Heroku
+- Connected Heroku Spring bootApp with Heroku PostgresSQL
+- Includes Swagger UI API to document Spring REST API
 
-**In Progress**
-- Adding Search Engine
-- Adding tags to posts
-- Register User
-- Adding JWT Token or Oauth2
+## In Progress
+- Adding Search Engine by tags, category
+- Adding tags to each task
+- Adding Priority to each task
+- Adding Login page tot register user
+- Adding OAuth2 or JWT Spring Security
+- Adding Unit Tests and Integration Tests
 
-**Link to Trakc Project Software:**
+## Link to Track Project Software:
 
 https://www.moonlee242.me/TrackProject/
