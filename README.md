@@ -1,4 +1,4 @@
-# Full Stack Track Projecet Software
+# Full Stack Track Project Software
 
 Created a full stack track project software leveraging React.js for front end, Spring for REST API backend, Heroku for deployment and Heroku Postgres SQL as cloud database.
 
